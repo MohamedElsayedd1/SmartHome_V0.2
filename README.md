@@ -33,8 +33,8 @@ This repository hosts the codebase for a sophisticated Smart Home system powered
 Contributions to the project are welcome. Feel free to submit pull requests for bug fixes, enhancements, or additional features.
 
 **Credits:**
-- Author: [Your Name]
-- Email: [Your Email Address]
+- Author: Mohamed Elsayed
+- Email: momaroof61@gmail.com
 
 **License:**
 This project is licensed under the [License Name]. See the LICENSE file for details.
