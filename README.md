@@ -36,5 +36,3 @@ Contributions to the project are welcome. Feel free to submit pull requests for 
 - Author: Mohamed Elsayed
 - Email: momaroof61@gmail.com
 
-**License:**
-This project is licensed under the [License Name]. See the LICENSE file for details.
